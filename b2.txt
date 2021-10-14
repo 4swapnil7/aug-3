@@ -1,0 +1,2 @@
+second text file b2 of separate branch.
+
